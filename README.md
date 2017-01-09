@@ -7,8 +7,12 @@ When a new member wants to join the community, we need an easy way to assign the
 individual enveloppes with the sign-in instructions. This tool is a simple project that allows us to quickly get the fob
 number when we are preparing a batch of keys.
 
-The box was 3D printed and designed around an Arduino Uno R3, a cheap Oled display (https://www.amazon.com/gp/product/B00O2LLT30) and a
-Parallax RFID reader (https://www.amazon.com/gp/product/B00B88HFPG). 
+The box was 3D printed and designed for this project. 
+
+Parts list :
+ - 1 Arduino Uno R3 (https://www.amazon.com/Arduino-Uno-R3-Microcontroller-A000066/dp/B008GRTSV6) 
+ - 1 cheap Oled display (https://www.amazon.com/gp/product/B00O2LLT30)
+ - 1 Parallax RFID reader (https://www.amazon.com/gp/product/B00B88HFPG). 
 
 ![The device](https://github.com/pgrandin/fob-o-matic-3000/raw/master/device.png)
 
