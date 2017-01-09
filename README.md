@@ -16,5 +16,5 @@ Parallax RFID reader (https://www.amazon.com/gp/product/B00B88HFPG).
 
 The result:
 
-![Result](https://github.com/pgrandin/fob-o-matic-3000/raw/master/forb-o-matic.png)
+![Result](https://github.com/pgrandin/fob-o-matic-3000/raw/master/fob-o-matic.png)
 
